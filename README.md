@@ -1,4 +1,4 @@
-# arm-wheels
+# arm-wheels (aarch64)
 
 ## Python 3.6 wheels
 
