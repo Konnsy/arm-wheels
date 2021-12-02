@@ -25,10 +25,11 @@ https://drive.google.com/file/d/1N0Z_yoCR3PgjhwQj3lWpiaWJ2PkoSn_4/view?usp=shari
 ## Jetson Nano wheels
 
 ### Nvidias Wheels (Python 3.6)
-Jetson Nano v1.0, v1.1, ..., v1.10 and the corresponding torchvision packages can be found at https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-10-now-available/72048
+Pytorch (v1.0 to v1.10) and torchvision https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-10-now-available/72048
 
 ### Build from source: Instructions to build from source on Jetson Nano 
 https://qengineering.eu/install-pytorch-on-jetson-nano.html
 
 ### Correpsonding wheels (Python 3.6)
+Pytorch (v1.7 to v1.10), Torchvision and Libtorch (only for v1.10)
 https://github.com/Qengineering/PyTorch-Jetson-Nano
